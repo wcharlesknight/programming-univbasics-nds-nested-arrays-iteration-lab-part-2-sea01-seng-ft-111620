@@ -7,7 +7,7 @@ def find_min_in_nested_arrays(src)
   row_index += 1 
 end  
 minimal
-end
+
 
 
 # src will be an array of arrays of integers
